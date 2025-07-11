@@ -1,0 +1,1 @@
+this file contain the assets folder,if you want to see the project , simply create a new project and import this asset file in your project, then go to the scene folder named "game" and open it to fully gain acces to my project
